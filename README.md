@@ -50,7 +50,7 @@ The **Top Rated TV Shows Dataset** project involves:
 For contributions, feedback, or collaborations, feel free to reach out:  
 - **Author:** Shreya Gupta
 - **Email:** shreyagupta119809@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/shreya-gupta-2a6a292ab) 
+- **LinkedIn:** https://www.linkedin.com/in/shreya-gupta-2a6a292ab
 
 ---
 
