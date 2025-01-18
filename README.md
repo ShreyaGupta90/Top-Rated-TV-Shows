@@ -1,4 +1,4 @@
-sn# 📊 Top Rated TV Shows Dataset (TMDb API)
+n# 📊 Top Rated TV Shows Dataset (TMDb API)
 
 This project provides a dataset of **top-rated TV shows** collected from the **TMDb API**. It aims to simplify the process of accessing high-quality TV show data for analysis, insights, and visualization.  
 
